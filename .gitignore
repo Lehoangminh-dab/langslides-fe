@@ -1,0 +1,6 @@
+# Loại bỏ thư mục build và thư viện cài đặt
+node_modules/
+.next/
+dist/
+logs/
+.env
